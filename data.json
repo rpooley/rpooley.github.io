@@ -37,6 +37,6 @@
   {
     "label": "Show Data",
     "isHeading": false,
-    "script": "var navigationService = Mobiess.Portable.Infrastructure.Bootstrapper.Container.Resolve<Mobiess.Portable.UI.INavigationService>();navigationService.Navigate('Json', '', 'https://rpooley.github.io/data.json', null);"
+    "script": "var navigationService = Mobiess.Portable.Infrastructure.Bootstrapper.Container.Resolve<Mobiess.Portable.UI.INavigationService>();\r\nnavigationService.Navigate('Json', '', 'https://rpooley.github.io/data.json', null);"
   }
 ]
