@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Type",
+    "isHeading": false,
+    "value": "Boilers"
+  },
+  {
+    "label": "Sub-type",
+    "isHeading": false,
+    "value": "Gas-fired boilers"
+  },
+  {
+    "label": "Building",
+    "isHeading": false,
+    "value": "Hostel"
+  },
+  {
+    "label": "Barcode",
+    "isHeading": false,
+    "value": "LA005_BAR_1"
+  },
+  {
+    "label": "Installation date",
+    "isHeading": false,
+    "value": "18 March 2023"
+  },
+  {
+    "label": "Warranty expiry date",
+    "isHeading": false,
+    "value": "18 March 2033"
+  }
+]
