@@ -28,5 +28,10 @@
     "label": "Warranty expiry date",
     "isHeading": false,
     "value": "18 March 2033"
+  },
+  {
+    "label": "Create Work Order",
+    "isHeading": false,
+    "script": "alert('hi');"
   }
 ]
