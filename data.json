@@ -32,7 +32,7 @@
   {
     "label": "Create Work Order",
     "isHeading": false,
-    "script": "navigateToForm(\"WorkOrder\Views\WorkOrderNewStandardView\", System.Guid.NewGuid(), \"Building 1\", \"Bob Jones\", \"12345\");"
+    "script": "navigateToForm(\"WorkOrder\\Views\\WorkOrderNewStandardView\", System.Guid.NewGuid(), \"Building 1\", \"Bob Jones\", \"12345\");"
   },
   {
     "label": "Show Data",
